@@ -8,3 +8,11 @@ let x;
 x = 45;
 
 console.log(x);
+
+x += 1
+
+console.log(x)
+
+console.log(typeof x)
+ x = "daniel"
+console.log(typeof x)
